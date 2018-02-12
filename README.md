@@ -1,5 +1,4 @@
 # FightAgainstLeetCode
-practice in LeetCode makes perfect
+PRACTICES IN LEETCODE MAKERS PERFECT
 
-## USE Python3 and Golang
-## not a professional coder
+## Python3 and Golang
