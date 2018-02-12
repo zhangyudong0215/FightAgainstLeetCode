@@ -1,5 +1,6 @@
 # FightAgainstLeetCode
-PRACTICES IN LEETCODE MAKERS PERFECT
+
+Practice makes perfect
 
 Python3 and Golang
 
