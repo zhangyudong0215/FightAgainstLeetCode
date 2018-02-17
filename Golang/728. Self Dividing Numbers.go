@@ -22,3 +22,26 @@ func selfDividingNumbers(left int, right int) []int {
     }
     return result
 }
+
+// func selfDividingNumbers(left int, right int) []int {
+//     var numlist []int
+//     for num := left; num <= right; num++ {
+//         if isselfDividing(num) {
+//             numlist = append(numlist, num)
+//         }
+//     }
+//     return numlist
+// }
+
+// func isselfDividing(n int) bool {
+//     var res int
+//     var origin int = n
+//     for n > 0 {
+//         res = n%10
+//         if res == 0 || origin%res != 0 {
+//             return false
+//         }
+//         n /= 10
+//     }
+//     return true
+// }
