@@ -1,10 +1,9 @@
 class Solution:
-    def tree2str(self, t):
+    def tree2str(self, t): # 76ms
         """
         :type t: TreeNode
         :rtype: str
         """
-        s = ''
         def add2str(node):
             if not node:
                 return '()'
