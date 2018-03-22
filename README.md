@@ -107,7 +107,7 @@ Python3 and Golang
 |540|类似二分搜索|独立完成!符合O(log(n))time&O(1)space要求|
 |515|BFS&DFS|我只写了BFS的, DFS需要一个映射配合, 详见Go最快Accepted|
 |553||It's a joke.|
-||||
+|\*647|回文|discuss中的Manacher's Algorithm算法没看懂|
 ||||
 ||||
 ||||
