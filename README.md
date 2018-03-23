@@ -5,6 +5,10 @@ Practice makes perfect
 Python3 and Golang
 
 
+## Golang暂时未完成
+526(动态规划, 赶时间没做)
+
+
 ## Finished:
 
 |题号|类型|备注|
@@ -110,6 +114,7 @@ Python3 and Golang
 |\*647|回文|discuss中的Manacher's Algorithm算法没看懂|
 |413|||
 |\*\*\*526|DP Dynamic Planning 动态规划|详细注释见python代码|
+|\*260|位运算|竟然有这种方法?|
 ||||
 ||||
 ||||
@@ -117,7 +122,3 @@ Python3 and Golang
 ||||
 ||||
 ||||
-||||
-
-## Golang暂时未完成
-526(动态规划, 赶时间没做)
