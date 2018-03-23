@@ -109,6 +109,7 @@ Python3 and Golang
 |553||It's a joke.|
 |\*647|回文|discuss中的Manacher's Algorithm算法没看懂|
 |413|||
+|\*\*\*526|DP Dynamic Planning 动态规划|详细注释见python代码|
 ||||
 ||||
 ||||
@@ -117,4 +118,6 @@ Python3 and Golang
 ||||
 ||||
 ||||
-||||
+
+## Golang暂时未完成
+526(动态规划, 赶时间没做)
