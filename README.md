@@ -115,7 +115,7 @@ Python3 and Golang
 |413|||
 |\*\*\*526|DP Dynamic Planning 动态规划|详细注释见python代码|
 |\*260|位运算|竟然有这种方法?|
-||||
+|739|栈|此问题Golang无论如何都是超时, Golang代码有Go中栈实现的技巧|
 ||||
 ||||
 ||||
