@@ -117,8 +117,8 @@ Python3 and Golang
 |\*260|位运算|竟然有这种方法?|
 |739|栈|此问题Golang无论如何都是超时, Golang代码有Go中栈实现的技巧|
 |508|||
-||||
-||||
-||||
-||||
+|804||Weekly Contest 77|
+|\*805|递归|Weekly Contest 77\n进一步学习该怎么样递归|
+|806||Weekly Contest 77|
+|807||Weekly Contest 77|
 ||||
