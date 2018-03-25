@@ -7,7 +7,7 @@ Python3 and Golang
 
 ## Golang暂时未完成
 526(动态规划, 赶时间没做)
-
+805(始终报错)
 
 ## Finished:
 
