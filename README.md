@@ -138,8 +138,8 @@ Python3 and Golang
 |809|正则表达式|Weekly Contest 78|
 |811||Weekly Contest 78|
 |547|DFS||
-||||
-||||
+|676|||
+|503|stack|不用stack就超时了|
 ||||
 ||||
 ||||
