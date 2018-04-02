@@ -10,6 +10,8 @@ Python3 and Golang
 805(始终报错)
 451(没什么特别突出的方法, 就没想做)
 238(总是超时)
+809(weekly contest 78)(抽时间补上)
+811(weekly contest 78)(抽时间补上)
 
 ## Finished:
 
@@ -133,8 +135,17 @@ Python3 and Golang
 |347|||
 |94|递归&栈||
 |565||一开始加了in查询, 结果超时了|
-|809|正则表达式|Weekly Contest 77|
-|811||Weekly Contest 77|
+|809|正则表达式|Weekly Contest 78|
+|811||Weekly Contest 78|
+|547|DFS||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 ||||
 ||||
 ||||
