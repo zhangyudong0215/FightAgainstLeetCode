@@ -145,7 +145,7 @@ Python3 and Golang
 |769|||
 |648|||
 |454||纯粹的brute force|
-||||
+|646||动态规划超时, greedy通过; Golang用了一种疑似新的自定义sort的方法|
 ||||
 ||||
 ||||
