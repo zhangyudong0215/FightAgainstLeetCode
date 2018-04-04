@@ -144,7 +144,7 @@ Python3 and Golang
 |22|||
 |769|||
 |648|||
-|477||纯粹的brute force|
+|454||纯粹的brute force|
 ||||
 ||||
 ||||
