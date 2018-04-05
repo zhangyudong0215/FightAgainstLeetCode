@@ -13,6 +13,7 @@ Python3 and Golang
 809(weekly contest 78)(抽时间补上)
 811(weekly contest 78)(抽时间补上)
 216(似乎没有什么好方法)
+498(没啥好方法, 和python代码结构几乎一致)
 
 ## Finished:
 
@@ -151,7 +152,7 @@ Python3 and Golang
 |144|||
 |343|DP|比较简单的DP问题|
 |554||Golang Submit的时候有问题, 但应该不是程序出错|
-||||
+|498||没啥好方法, 就没用Golang实现|
 ||||
 ||||
 ||||
