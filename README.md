@@ -14,6 +14,9 @@ Python3 and Golang
 811(weekly contest 78)(抽时间补上)
 216(似乎没有什么好方法)
 498(没啥好方法, 和python代码结构几乎一致)
+812(weekly contest 79)(抽时间补上)
+813(weekly contest 79)(抽时间补上)
+814(weekly contest 79)(抽时间补上)
 
 ## Finished:
 
@@ -156,8 +159,8 @@ Python3 and Golang
 |445|链表|stack解决|
 |**623**||Golang结果错误, 排查不出来|
 |814|递归|Weekly Contest 79|
-||||
-||||
+|812||<br/>Weekly Contest 79</br>关键是利用坐标计算三角形面积|
+|**813**|DP|Weekly Contest 79|
 ||||
 ||||
 ||||
