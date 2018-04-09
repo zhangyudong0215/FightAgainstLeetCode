@@ -17,6 +17,7 @@ Python3 and Golang
 812(weekly contest 79)(抽时间补上)
 813(weekly contest 79)(抽时间补上)
 814(weekly contest 79)(抽时间补上)
+318
 
 ## Finished:
 
@@ -161,7 +162,7 @@ Python3 and Golang
 |814|递归|Weekly Contest 79|
 |812||<br/>Weekly Contest 79</br>关键是利用坐标计算三角形面积|
 |**813**|DP|Weekly Contest 79|
-||||
+|**318**|位运算|单词和位运算的结合, 很elegant|
 ||||
 ||||
 ||||
