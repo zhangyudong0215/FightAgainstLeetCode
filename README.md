@@ -17,7 +17,6 @@ Python3 and Golang
 812(weekly contest 79)(抽时间补上)
 813(weekly contest 79)(抽时间补上)
 814(weekly contest 79)(抽时间补上)
-318
 
 ## Finished:
 
