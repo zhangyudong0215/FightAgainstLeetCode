@@ -168,7 +168,7 @@ Python3 and Golang
 |486|DP|python完成了, 但是Golang存在bug没找到|
 |819||Weekly Contest 80|
 |817||Weekly Contest 80|
-||||
+|650||这道题很数学|
 ||||
 ||||
 ||||
