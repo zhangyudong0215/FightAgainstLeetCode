@@ -166,8 +166,8 @@ Python3 and Golang
 |**714**||股票问题, DP的解法挺难理解|
 |230||二叉查找树找第k小的值|
 |486|DP|python完成了, 但是Golang存在bug没找到|
-||||
-||||
+|819||Weekly Contest 80|
+|817||Weekly Contest 80|
 ||||
 ||||
 ||||
