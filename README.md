@@ -169,7 +169,7 @@ Python3 and Golang
 |819||Weekly Contest 80|
 |817||Weekly Contest 80|
 |650||这道题很数学|
-||||
+|78||Golang实现的时候碰到了奇怪的问题, 数组顺序发生了变化|
 ||||
 ||||
 ||||
