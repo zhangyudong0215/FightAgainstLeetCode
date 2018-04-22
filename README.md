@@ -175,10 +175,10 @@ Python3 and Golang
 |392|||
 |636|栈||
 |**452**|Overlapping Interval Problem|discuss中有一个针对此问题的模板|
-||||
-||||
-||||
-||||
+|820|Weekly Contest 81||
+|821|Weekly Contest 81||
+|822|Weekly Contest 81|去掉前后一样的数字取最小即可|
+|**823**|Weekly Contest 81|DP&二叉树&递归, 方法正确python超时|
 ||||
 ||||
 ||||
