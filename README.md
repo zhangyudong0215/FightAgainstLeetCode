@@ -179,7 +179,7 @@ Python3 and Golang
 |821|Weekly Contest 81||
 |822|Weekly Contest 81|去掉前后一样的数字取最小即可|
 |**823**|Weekly Contest 81|DP&二叉树&递归, 方法正确python超时|
-||||
+|583|DP||
 ||||
 ||||
 ||||
