@@ -4,8 +4,8 @@ Practice makes perfect
 
 Python3 and Golang
 
-
 ## Golang暂时未完成
+
 526(动态规划, 赶时间没做)
 805(始终报错)
 451(没什么特别突出的方法, 就没想做)
@@ -18,7 +18,7 @@ Python3 and Golang
 813(weekly contest 79)(抽时间补上)
 814(weekly contest 79)(抽时间补上)
 
-## Finished:
+## Finished
 
 |题号|类型|备注|
 |:-:|:-:|:-:|
@@ -175,10 +175,10 @@ Python3 and Golang
 |392|||
 |636|栈||
 |**452**|Overlapping Interval Problem|discuss中有一个针对此问题的模板|
-|820|Weekly Contest 81||
-|821|Weekly Contest 81||
-|822|Weekly Contest 81|去掉前后一样的数字取最小即可|
-|**823**|Weekly Contest 81|DP&二叉树&递归, 方法正确python超时|
+|820||Weekly Contest 81|
+|821||Weekly Contest 81|
+|822||Weekly Contest 81<br>去掉前后一样的数字取最小即可</br>|
+|**823**|DP&二叉树&递归|Weekly Contest 81<br>方法正确python超时|
 |583|DP||
 |**287**|Cycle Detection (环检测)|查找链表中是否有环的一个方法|
 ||||
