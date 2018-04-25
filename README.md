@@ -6,17 +6,17 @@ Python3 and Golang
 
 ## Golang暂时未完成
 
-526(动态规划, 赶时间没做)
-805(始终报错)
-451(没什么特别突出的方法, 就没想做)
-238(总是超时)
-809(weekly contest 78)(抽时间补上)
-811(weekly contest 78)(抽时间补上)
-216(似乎没有什么好方法)
-498(没啥好方法, 和python代码结构几乎一致)
-812(weekly contest 79)(抽时间补上)
-813(weekly contest 79)(抽时间补上)
-814(weekly contest 79)(抽时间补上)
+<br>526(动态规划, 赶时间没做)
+<br>805(始终报错)
+<br>451(没什么特别突出的方法, 就没想做)
+<br>238(总是超时)
+<br>809(weekly contest 78)(抽时间补上)
+<br>811(weekly contest 78)(抽时间补上)
+<br>216(似乎没有什么好方法)
+<br>498(没啥好方法, 和python代码结构几乎一致)
+<br>812(weekly contest 79)(抽时间补上)
+<br>813(weekly contest 79)(抽时间补上)
+<br>814(weekly contest 79)(抽时间补上)
 
 ## Finished
 
@@ -181,7 +181,7 @@ Python3 and Golang
 |**823**|DP&二叉树&递归|Weekly Contest 81<br>方法正确python超时|
 |583|DP||
 |**287**|Cycle Detection (环检测)|查找链表中是否有环的一个方法|
-||||
+|**740**|DP|动态规划的另一种常用形式|
 ||||
 ||||
 ||||
