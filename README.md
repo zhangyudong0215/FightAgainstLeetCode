@@ -184,7 +184,7 @@ Python3 and Golang
 |**740**|DP|动态规划的另一种常用形式|
 |524||iter函数及其特点学习一下(只能一次遍历)|
 |62||序号小的题相对简单|
-|**516**|DP|接近超时|
+|**516**|DP|有点难, 关于空间复杂度的讨论见[DISCUSS](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/99129/Python-DP-O(n)-space-O(n2)-time)|
 ||||
 ||||
 ||||

@@ -6,9 +6,9 @@ class Solution(object):
         """
         n = len(s) # 1782ms
         dp = [1] * n
-        for j in xrange(1, len(s)):
+        for j in range(1, len(s)):
             pre = dp[j]
-            for i in reversed(xrange(0, j)):
+            for i in range(j-1, -1, -1):
                 tmp = dp[i]
                 if s[i] == s[j]:
                     dp[i] = 2 + pre if i + 1 <= j - 1 else 2
