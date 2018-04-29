@@ -185,8 +185,8 @@ Python3 and Golang
 |524||iter函数及其特点学习一下(只能一次遍历)|
 |62||序号小的题相对简单|
 |**516**|DP|有点难, 关于空间复杂度的讨论见[DISCUSS](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/99129/Python-DP-O(n)-space-O(n2)-time)|
-||||
-||||
+|824||Weekly Contest 82|
+|825||Weekly Contest 82<br>利用数值范围, 其它方法全部超时|
 ||||
 ||||
 ||||
