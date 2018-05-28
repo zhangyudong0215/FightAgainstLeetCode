@@ -9,6 +9,8 @@
 SELECT b.Name AS Department, a.Name AS Employee, a.Salary
 FROM Employee a JOIN Department b ON a.DepartmentId = b.Id
 WHERE (a.DepartmentId, a.Salary) in
-   (SELECT DepartmentId, Max(Salary) AS Salary
-    FROM Employee
-    GROUP BY DepartmentId
+   (
+       SELECT DepartmentId, Max(Salary) AS Salary
+        FROM Employee
+        GROUP BY DepartmentId
+    )

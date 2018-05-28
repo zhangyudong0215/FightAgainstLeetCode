@@ -36,7 +36,7 @@ Python3 and Golang
 |500|正则表达式|可以用字符串方法处理，但是RE更快|
 |595|SQL||
 |620|SQL||
-|627|SQL|update, set语句修改值; case when then else条件语句|
+|**627**|SQL|update, set语句修改值; case when then else条件语句|
 |669|递归|要清楚binary search tree是二分查找的树|
 |412|||
 |682|||
@@ -187,11 +187,22 @@ Python3 and Golang
 |**516**|DP|有点难, 关于空间复杂度的讨论见[DISCUSS](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/99129/Python-DP-O(n)-space-O(n2)-time)|
 |824||Weekly Contest 82|
 |825||Weekly Contest 82<br>利用数值范围, 其它方法全部超时|
-||||
-||||
-||||
-||||
-||||
+|175|SQL||
+|176|SQL|| 
+|177|SQL|SQL函数, 取第N大的值|
+|178|SQL|计算排名|
+|180|SQL|某种特性连续出现的情况|
+|181|SQL||
+|182|SQL||
+|183|SQL||
+|**184**|SQL|为何第一种方法错了|
+|**185**|SQL|查找分组之后每一项最大的三个值|
+|196|SQL||
+|197|SQL|mysql中的datediff函数|
+|**262**|SQL|一个相当复杂的例子|
+|596|SQL||
+|601|SQL|查询某种连续出现的情况|
+|**626**|SQL|case关键字, 交换奇偶ID; 类似的看627题|
 ||||
 ||||
 ||||
